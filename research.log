@@ -1,0 +1,1428 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.19)  6 DEC 2016 07:48
+entering extended mode
+**research.tex
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(D:\Apps\MikTex\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(D:\Apps\MikTex\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(D:\Apps\MikTex\tex\latex\cjk\CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(D:\Apps\MikTex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(D:\Apps\MikTex\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(D:\Apps\MikTex\tex\latex\base\utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(D:\Apps\MikTex\tex\latex\base\t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(D:\Apps\MikTex\tex\latex\base\ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(D:\Apps\MikTex\tex\latex\base\omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(D:\Apps\MikTex\tex\latex\cjk\CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(D:\Apps\MikTex\tex\latex\cjk\mule\MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box26
+)
+(D:\Apps\MikTex\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+))
+(D:\Apps\MikTex\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(D:\Apps\MikTex\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(D:\Apps\MikTex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\Apps\MikTex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(D:\Apps\MikTex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)
+(D:\Apps\MikTex\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(D:\Apps\MikTex\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\everycr=\toks17
+\minrowclearance=\skip45
+)
+\rownum=\count88
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(D:\Apps\MikTex\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(D:\Apps\MikTex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Apps\MikTex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(D:\Apps\MikTex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Apps\MikTex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\Apps\MikTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(D:\Apps\MikTex\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count89
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box27
+\rot@mess@toks=\toks19
+)
+(D:\Apps\MikTex\tex\latex\graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(D:\Apps\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(D:\Apps\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\Apps\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen107
+))
+(D:\Apps\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(D:\Apps\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks21
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks22
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks23
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(D:\Apps\MikTex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\Apps\MikTex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\Apps\MikTex\tex\latex\amscls\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip51
+\thm@postskip=\skip52
+\thm@headsep=\skip53
+\dth@everypar=\toks30
+)
+(D:\Apps\MikTex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(D:\Apps\MikTex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\Apps\MikTex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks31
+
+(D:\Apps\MikTex\tex\latex\geometry\geometry.cfg))
+(D:\Apps\MikTex\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen124
+\lightrulewidth=\dimen125
+\cmidrulewidth=\dimen126
+\belowrulesep=\dimen127
+\belowbottomsep=\dimen128
+\aboverulesep=\dimen129
+\abovetopsep=\dimen130
+\cmidrulesep=\dimen131
+\cmidrulekern=\dimen132
+\defaultaddspace=\dimen133
+\@cmidla=\count105
+\@cmidlb=\count106
+\@aboverulesep=\dimen134
+\@belowrulesep=\dimen135
+\@thisruleclass=\count107
+\@lastruleclass=\count108
+\@thisrulewidth=\dimen136
+)
+(D:\Apps\MikTex\tex\latex\wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(D:\Apps\MikTex\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count109
+\calc@Bcount=\count110
+\calc@Adimen=\dimen137
+\calc@Bdimen=\dimen138
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count111
+\calc@Cskip=\skip56
+)
+(D:\Apps\MikTex\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+
+(D:\Apps\MikTex\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
+\wpXoffset=\skip57
+\wpYoffset=\skip58
+\tileXoffset=\skip59
+\tileYoffset=\skip60
+\tilewidth=\skip61
+\tileheight=\skip62
+\tileX=\skip63
+\tileY=\skip64
+)
+(D:\Apps\MikTex\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(D:\Apps\MikTex\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen139
+\epsfysize=\dimen140
+)
+(D:\Apps\MikTex\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks32
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+)
+(D:\Apps\MikTex\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2015/06/15 v0.4y Insert pages of external PDF documents (AM)
+\AM@pagewidth=\dimen146
+\AM@pageheight=\dimen147
+
+(D:\Apps\MikTex\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2015/06/15 v0.4y Pdfpages driver for pdfTeX (AM)
+)
+(D:\Apps\MikTex\tex\latex\oberdiek\pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+\AM@pagebox=\box31
+\AM@toc@title=\toks33
+\c@AM@survey=\count112
+\AM@templatesizebox=\box32
+)
+(D:\Apps\MikTex\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(D:\Apps\MikTex\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks34
+\float@box=\box33
+\@float@everytoks=\toks35
+\@floatcapt=\box34
+)
+\@float@every@algorithm=\toks36
+\c@algorithm=\count114
+)
+(D:\Apps\MikTex\tex\latex\algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(D:\Apps\MikTex\tex\latex\algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count115
+\c@ALG@rem=\count116
+\c@ALG@nested=\count117
+\ALG@tlm=\skip67
+\ALG@thistlm=\skip68
+\c@ALG@Lnr=\count118
+\c@ALG@blocknr=\count119
+\c@ALG@storecount=\count120
+\c@ALG@tmpcounter=\count121
+\ALG@tmplength=\skip69
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (D:\Apps\MikTex\tex\latex\pgf\frontendlayer\tikz.sty
+(D:\Apps\MikTex\tex\latex\pgf\basiclayer\pgf.sty
+(D:\Apps\MikTex\tex\latex\pgf\utilities\pgfrcs.sty
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box35
+
+(D:\Apps\MikTex\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(D:\Apps\MikTex\tex\latex\pgf\basiclayer\pgfcore.sty
+(D:\Apps\MikTex\tex\latex\pgf\systemlayer\pgfsys.sty
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
+
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks40
+))
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count122
+\c@pgf@countb=\count123
+\c@pgf@countc=\count124
+\c@pgf@countd=\count125
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count126
+\pgfsyssoftpath@bigbuffer@items=\count127
+)
+(D:\Apps\MikTex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmath.code.tex
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathcalc.code.tex
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathutil.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count128
+\pgfmath@box=\box36
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
+)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.t
+ex))) (D:\Apps\MikTex\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count129
+))
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen159
+\pgf@picmaxx=\dimen160
+\pgf@picminy=\dimen161
+\pgf@picmaxy=\dimen162
+\pgf@pathminx=\dimen163
+\pgf@pathmaxx=\dimen164
+\pgf@pathminy=\dimen165
+\pgf@pathmaxy=\dimen166
+\pgf@xx=\dimen167
+\pgf@xy=\dimen168
+\pgf@yx=\dimen169
+\pgf@yy=\dimen170
+\pgf@zx=\dimen171
+\pgf@zy=\dimen172
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen173
+\pgf@path@lasty=\dimen174
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen175
+\pgf@shorten@start@additional=\dimen176
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count130
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen177
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen178
+\pgf@pt@y=\dimen179
+\pgf@pt@temp=\dimen180
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen181
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count131
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box40
+))
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(D:\Apps\MikTex\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(D:\Apps\MikTex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box41
+)
+(D:\Apps\MikTex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(D:\Apps\MikTex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
+)
+(D:\Apps\MikTex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(D:\Apps\MikTex\tex\latex\pgf\utilities\pgffor.sty
+(D:\Apps\MikTex\tex\latex\pgf\utilities\pgfkeys.sty
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(D:\Apps\MikTex\tex\latex\pgf\math\pgfmath.sty
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmath.code.tex))
+(D:\Apps\MikTex\tex\generic\pgf\utilities\pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(D:\Apps\MikTex\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(D:\Apps\MikTex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(D:\Apps\MikTex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count132
+\pgfplotmarksize=\dimen187
+)
+\tikz@lastx=\dimen188
+\tikz@lasty=\dimen189
+\tikz@lastxsaved=\dimen190
+\tikz@lastysaved=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box42
+\tikz@figbox@bg=\box43
+\tikz@tempbox=\box44
+\tikz@tempbox@bg=\box45
+\tikztreelevel=\count133
+\tikznumberofchildren=\count134
+\tikznumberofcurrentchild=\count135
+\tikz@fig@count=\count136
+
+(D:\Apps\MikTex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count137
+\pgfmatrixcurrentcolumn=\count138
+\pgf@matrix@numberofcolumns=\count139
+)
+\tikz@expandcount=\count140
+
+(D:\Apps\MikTex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths
+.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+))) (D:\Apps\MikTex\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(D:\Apps\MikTex\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen194
+\captionmargin@=\dimen195
+\captionwidth=\dimen196
+\caption@tempdima=\dimen197
+\caption@indent=\dimen198
+\caption@parindent=\dimen199
+\caption@hangindent=\dimen200
+)
+\c@ContinuedFloat=\count141
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+)
+\c@definition=\count142
+\c@thm=\count143
+\c@alg=\count144
+
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
+
+(D:\Apps\MikTex\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(D:\Apps\MikTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen201
+\scratchbox=\box46
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen202
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks50
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.19518pt, 417.11752pt, 90.19518pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=417.11752pt
+* \textheight=700.50723pt
+* \oddsidemargin=17.92519pt
+* \evensidemargin=17.92519pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box47
+ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Try loading font information for C70+bsmi on input line 49.
+
+
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\c70bsmi.fd
+File: c70bsmi.fd 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\c70bsmi.fdx
+File: c70bsmi.fdx 2015/04/18 4.8.4
+)
+Missing character: There is no ; in font bsmiu62!
+Missing character: There is no ¢ in font bsmiu95!
+
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+<logo5.png, id=26, 198.7425pt x 189.70876pt>
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 72.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Dropbox/MyResearch/The
+sis Templates/Thesis Format/logo5.png>] (D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8
+.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(D:\Apps\MikTex\tex\latex\cjk\UTF8\UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+Missing character: There is no ; in font bsmiu62!
+Missing character: There is no ¢ in font bsmiu95!
+Missing character: There is no ˝ in font bsmiu56!
+Missing character: There is no Å in font bsmiu5e!
+Missing character: There is no ◊ in font bsmiu76!
+Missing character: There is no  in font bsmiu6e!
+Missing character: There is no ≈ in font bsmiu88!
+Missing character: There is no  in font bsmiu6c!
+Missing character: There is no Ü in font bsmiu51!
+Missing character: There is no Ú in font bsmiu56!
+Missing character: There is no : in font bsmiu53!
+Missing character: There is no  in font bsmiu5c!
+Missing character: There is no û in font bsmiu8f!
+Missing character: There is no ¢ in font bsmiu95!
+Missing character: There is no É in font bsmiu5e!
+Missing character: There is no ˝ in font bsmiu56!
+Missing character: There is no  in font bsmiu4f!
+Missing character: There is no ) in font bsmiu6a!
+Missing character: There is no ¨ in font bsmiu8a!
+Missing character: There is no ¬ in font bsmiu53!
+Missing character: There is no X in font bsmiu53!
+Missing character: There is no U in font bsmiu62!
+Missing character: There is no ‚ in font bsmiu8e!
+Missing character: There is no û in font bsmiu8f!
+Missing character: There is no  in font bsmiu69!
+Missing character: There is no & in font bsmiu62!
+Missing character: There is no  in font bsmiu63!
+Missing character: There is no ≤ in font bsmiu63!
+Missing character: There is no s in font bsmiu6b!
+Missing character: There is no / in font bsmiu5e!
+Missing character: There is no Œ in font bsmiu6b!
+Missing character: There is no ∆ in font bsmiu99!
+Missing character: There is no ô in font bsmiu51!
+Missing character: There is no ≠ in font bsmiu65!
+Missing character: There is no ‚ in font bsmiu8e!
+Missing character: There is no ‚ in font bsmiu8e!
+Missing character: There is no 8 in font bsmiu62!
+Missing character: There is no ü in font bsmiu5b!
+Missing character: There is no s in font bsmiu6b!
+Missing character: There is no ‚ in font bsmiu8e!
+Missing character: There is no ˝ in font bsmiu56!
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 85.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [1]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+
+Overfull \hbox (0.33842pt too wide) in paragraph at lines 89--90
+[]\OT1/ptm/m/n/10.95 Lorem ip-sum do-lor sit amet, con-secte-tur adip-isc-ing e
+lit. Sus-pendisse neque magna,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 92.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 95.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+
+ []
+
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 103.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [3]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 107.
+
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+(D:\Apps\MikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+(D:\Apps\MikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 108.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [4]
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.lot")
+\tf@lot=\write5
+File: logo5.png Graphic file (type png)
+
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 110.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [5]
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.lof")
+\tf@lof=\write6
+File: logo5.png Graphic file (type png)
+
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 112.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 125.
+
+(D:\Apps\MikTex\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 131.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 139.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 140--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--143
+
+ []
+
+<images/kdd.png, id=171, 504.38437pt x 251.43938pt>
+File: images/kdd.png Graphic file (type png)
+ <use images/kdd.png>
+Package pdftex.def Info: images/kdd.png used on input line 150.
+(pdftex.def)             Requested size: 302.63295pt x 150.86478pt.
+File: logo5.png Graphic file (type png)
+
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 159.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [3 <D:/Dropbox/MyResearch/Thesis Templates/Thesis Format/images/kdd.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 167.
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 176.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [4]
+File: images/kdd.png Graphic file (type png)
+ <use images/kdd.png>
+Package pdftex.def Info: images/kdd.png used on input line 238.
+(pdftex.def)             Requested size: 342.97682pt x 170.9765pt.
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 248.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [5]
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 248.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+
+[6]
+File: logo5.png Graphic file (type png)
+ <use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 257.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+ []
+
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 296.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 298--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--301
+
+ []
+
+File: logo5.png Graphic file (type png)
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 304.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [9]
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.bbl")
+File: logo5.png Graphic file (type png)
+
+<use logo5.png>
+Package pdftex.def Info: logo5.png used on input line 308.
+(pdftex.def)             Requested size: 239.00836pt x 228.14435pt.
+ [10]
+("D:\Dropbox\MyResearch\Thesis Templates\Thesis Format\research.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17876 strings out of 493921
+ 316304 string characters out of 3152498
+ 360264 words of memory out of 3000000
+ 20579 multiletter control sequences out of 15000+200000
+ 57074 words of font info for 157 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,14n,54p,940b,967s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Apps/MikTex/fonts/enc/dvips/fontname/8r.enc}<D:/Apps/MikTex/fonts/type1/a
+rphic/bsmiu/bsmiu30.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu4e.pfb><D
+:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu4f.pfb><D:/Apps/MikTex/fonts/type1/
+arphic/bsmiu/bsmiu50.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu51.pfb><
+D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu52.pfb><D:/Apps/MikTex/fonts/type1
+/arphic/bsmiu/bsmiu53.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu54.pfb>
+<D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu55.pfb><D:/Apps/MikTex/fonts/type
+1/arphic/bsmiu/bsmiu56.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu57.pfb
+><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu58.pfb><D:/Apps/MikTex/fonts/typ
+e1/arphic/bsmiu/bsmiu59.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu5b.pf
+b><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><D:/Apps/MikTex/fonts/ty
+pe1/arphic/bsmiu/bsmiu5e.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu5f.p
+fb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu60.pfb><D:/Apps/MikTex/fonts/t
+ype1/arphic/bsmiu/bsmiu61.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu62.
+pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu63.pfb><D:/Apps/MikTex/fonts/
+type1/arphic/bsmiu/bsmiu64.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu65
+.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu66.pfb><D:/Apps/MikTex/fonts
+/type1/arphic/bsmiu/bsmiu67.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu6
+8.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu69.pfb><D:/Apps/MikTex/font
+s/type1/arphic/bsmiu/bsmiu6b.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu
+6c.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu6d.pfb><D:/Apps/MikTex/fon
+ts/type1/arphic/bsmiu/bsmiu6e.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmi
+u71.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu72.pfb><D:/Apps/MikTex/fo
+nts/type1/arphic/bsmiu/bsmiu73.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsm
+iu74.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu75.pfb><D:/Apps/MikTex/f
+onts/type1/arphic/bsmiu/bsmiu76.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bs
+miu77.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu78.pfb><D:/Apps/MikTex/
+fonts/type1/arphic/bsmiu/bsmiu79.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/b
+smiu7a.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu7b.pfb><D:/Apps/MikTex
+/fonts/type1/arphic/bsmiu/bsmiu7c.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/
+bsmiu7d.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><D:/Apps/MikTe
+x/fonts/type1/arphic/bsmiu/bsmiu7f.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu
+/bsmiu80.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu81.pfb><D:/Apps/MikT
+ex/fonts/type1/arphic/bsmiu/bsmiu82.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmi
+u/bsmiu83.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu84.pfb><D:/Apps/Mik
+Tex/fonts/type1/arphic/bsmiu/bsmiu88.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsm
+iu/bsmiu89.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu8a.pfb><D:/Apps/Mi
+kTex/fonts/type1/arphic/bsmiu/bsmiu8b.pfb><D:/Apps/MikTex/fonts/type1/arphic/bs
+miu/bsmiu8c.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu8d.pfb><D:/Apps/M
+ikTex/fonts/type1/arphic/bsmiu/bsmiu8e.pfb><D:/Apps/MikTex/fonts/type1/arphic/b
+smiu/bsmiu8f.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu90.pfb><D:/Apps/
+MikTex/fonts/type1/arphic/bsmiu/bsmiu91.pfb><D:/Apps/MikTex/fonts/type1/arphic/
+bsmiu/bsmiu95.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu96.pfb><D:/Apps
+/MikTex/fonts/type1/arphic/bsmiu/bsmiu97.pfb><D:/Apps/MikTex/fonts/type1/arphic
+/bsmiu/bsmiu99.pfb><D:/Apps/MikTex/fonts/type1/arphic/bsmiu/bsmiu9a.pfb><D:/App
+s/MikTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Apps/MikTex/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><D:/Apps/MikTex/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><D:/Apps/MikTex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Apps/MikTex/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Apps/MikTex/fonts/type1/urw/times
+/utmb8a.pfb><D:/Apps/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/Apps/MikTex/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on research.pdf (17 pages, 472186 bytes).
+PDF statistics:
+ 427 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+
